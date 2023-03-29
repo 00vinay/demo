@@ -1,0 +1,7 @@
+DAY !:-Basics of devops and waterfall model and agile methodologies and tools.cloud providers GCP, AWS[26 regions and 84 avilibility zones] ,AZURE,ORACLE,DIGITAL OCEAN,LINODE
+DAY 2: linux commomds
+DAY 3:linix commonds	
+DAY 4: linux commonds
+DAY 5: shell scripting	
+DAY 6: shell scripting	
+DAY 7-14 :AMEZON AWS-EC2,IAM,VPC
